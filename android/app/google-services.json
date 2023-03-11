@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766419188981",
+    "project_id": "ogrencibilgisistemi-daa51",
+    "storage_bucket": "ogrencibilgisistemi-daa51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766419188981:android:b740b6fa4ddd0ff3d319bc",
+        "android_client_info": {
+          "package_name": "com.atak.apps.obs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766419188981-1m74ib1k2q09cqf8igdscu7nta23cj9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBYvBrOaYDzpRQrXATli8BIlX0gARGzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766419188981-1m74ib1k2q09cqf8igdscu7nta23cj9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
